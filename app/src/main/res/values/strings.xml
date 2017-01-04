@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InvectoryCap1</string>
+    <string name="action_setting">settings</string>
+    <string name="action_dummy">dummy data</string>
+    <string name="action_edit">edit inventory</string>
+    <string name="action_save">save</string>
+    <string name="create_inventory">create inventory</string>
+    <string name="action_delete">delete inventory</string>
+    <string name="edit_text_price">Enter price</string>
+    <string name="edit_text_quanty">Enter quantity</string>
+    <string name="edit_text_name">Enter name</string>
+    <string name="edit_text_description">Enter description</string>
+    <string name="btn_reorder">order</string>
+    <string name="delete_message">Are you sure?</string>
+    <string name="delete_message_m">You will no longer access this item</string>
+    <string name="action_cancel">cancel</string>
+    <string name="action_delete_all">delete all</string>
+</resources>
